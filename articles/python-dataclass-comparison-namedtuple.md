@@ -144,3 +144,12 @@ print(p.distance_to_origin())  # Output: 5.0
 
 4. **dataclassとnamedtupleのどちらがメソッドを追加できますか？**
    - `namedtuple`はメソッドを追加できます。
+---
+## 📖 より詳しく知りたい方へ
+この記事では基本的な実装を解説しました。
+実務でのコード例・応用パターン・トラブル対処法は
+以下の記事で詳しく解説しています。
+
+👉 [詳細解説・実践コードはこちら](https://granking.hatenablog.com/entry/2026/03/22/155018)
+
+---

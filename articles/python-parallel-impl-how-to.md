@@ -182,3 +182,12 @@ with concurrent.futures.ThreadPoolExecutor(max_workers=3) as executor:
    A: `asyncio`がI/Oバウンドなタスクに適しています。
 
 この記事で解説したメソッドを実践することで、Pythonでの並列処理のパフォーマンスを大幅に向上させることができます。
+---
+## 📖 より詳しく知りたい方へ
+この記事では基本的な実装を解説しました。
+実務でのコード例・応用パターン・トラブル対処法は
+以下の記事で詳しく解説しています。
+
+👉 [詳細解説・実践コードはこちら](https://granking.hatenablog.com/entry/2026/03/22/155016_1)
+
+---
