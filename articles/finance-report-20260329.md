@@ -61,7 +61,7 @@ published: false
 - 📋 **適時開示の分類結果**
 - ❓ **FAQ**（投資初心者向け解説）
 
-👉 [詳細版を読む（はてなブログ）](https://granking.hatenablog.com/?_gl=1*1fx4s0l*_gcl_au*MTUzNTg3MjI1MS4xNzc0MTYwOTU1)
+👉 [詳細版を読む（はてなブログ）](https://granking.hatenablog.com/entry/2026/03/29/213510)
 
 ---
 > ⚠️ 本記事は情報提供のみを目的としており、投資助言ではありません。
